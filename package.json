@@ -1,0 +1,11 @@
+{
+    "name": "MoreRPG",
+    "version": "1.0.0",
+    "description": "A mod aimed at adding more RPG based topics and research items for Game Dev Tycoon.\n\nCurrently adds a few dozen topics and 11 research items all catered towards RPG elements. ",
+    "main": "MoreRPG.js",
+    "author": "Nedinator",
+    "license": "ISC",
+    "dependencies": {
+        "gdt-modAPI": "0.1.2"
+    }
+}
